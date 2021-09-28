@@ -1,5 +1,5 @@
 # imx6ull
-
+##GitHub这边以后只做存档使用新资料下载链接 https://alientek-linux.coding.net/public/
 #### 介绍
 这里是正点原子imx6ull光盘资料中的文档。其他需要更新的资料请到http://www.openedv.com/docs/index.html 正点原子资料下载中心下载。
 
